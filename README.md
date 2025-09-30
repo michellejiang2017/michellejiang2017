@@ -1,13 +1,13 @@
 ## Hi I'm Michelle👋
 
 🔭 I’m currently working on a stock portfolio tracker for personal wealth management. Check it out [here](https://github.com/michellejiang2017/personal-stock-tracker)! 
-🌱 Some relevant coursework: 
+<br>🌱 Some relevant coursework: 
 - CSC120: Object Oriented Programming
 - ECO220: Introduction to Statistics and Econometrics
 - FYS106: Learning and Thriving in a Labyrinth of Technology
 
 📫 Find me on [Linkedin](https://www.linkedin.com/in/michellejiang2017/)
-⚡ Fun fact: I'm currently learning how to bind books. 
+<br>⚡ Fun fact: I'm currently learning how to bind books. 
 <!--
 **michellejiang2017/michellejiang2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
