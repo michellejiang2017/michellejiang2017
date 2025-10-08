@@ -1,6 +1,6 @@
 ## Hi I'm Michelle👋
 
-🔭 I’m currently working on a stock portfolio tracker for personal wealth management. Check it out [here](https://github.com/michellejiang2017/personal-stock-tracker)! 
+<!-- 🔭 I’m currently working on a stock portfolio tracker for personal wealth management. Check it out [here](https://github.com/michellejiang2017/personal-stock-tracker)! -->
 <br>🌱 Some relevant coursework: 
 - CSC120: Object Oriented Programming
 - ECO220: Introduction to Statistics and Econometrics
