@@ -3,8 +3,8 @@ I’m a Computer Science and Quantitative Economics student at Smith College int
 
 <br>👯 Some past projects:
 - [Shopping Mall Simulator](https://github.com/michellejiang2017/CSC120-FinalProject): a game where you are in a shopping mall and you need to cross items off your shopping list.  
-- [Alien Assassin](https://github.com/michellejiang2017/Alien-Assassin): a game where you play as an assassin in an alien universe created as part of the [global game jam](https://globalgamejam.org/games/2026/alien-assassin-3)
-- [Wheely Mammoths](https://github.com/sobechiigweatu/Hack-the-Herd-F25-Wheely-Mammoth): a rideshare website for college students & Hack the Herd Sustainable Transportation Winner
+- [Alien Assassin](https://github.com/michellejiang2017/Alien-Assassin): a game where you play as an assassin in an alien universe created as part of the [global game jam](https://globalgamejam.org/games/2026/alien-assassin-3).
+- [Wheely Mammoths](https://github.com/sobechiigweatu/Hack-the-Herd-F25-Wheely-Mammoth): a rideshare website for college students & [Hack the Herd](https://devpost.com/software/wheely-mammoths) Sustainable Transportation Winner.
 - [Wage Tracker](https://github.com/michellejiang2017/CSE2190-IA): a web app to calculate and display wages of my student-run company.
 
 <br>🌱 Some relevant coursework: 
