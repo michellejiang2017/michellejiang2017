@@ -8,6 +8,10 @@ I’m a Computer Science and Quantitative Economics student at Smith College int
 - [Wage Tracker](https://github.com/michellejiang2017/CSE2190-IA): a web app to calculate and display wages of my student-run company.
 
 <br>🌱 Some relevant coursework: 
+- CSC210: Data Structures
+- MTH153: Introduction to Discrete Mathematics 
+- ECO250: Intermediate Microeconomics 
+- ENG125: Introduction to Creative Writing
 - CSC120: Object Oriented Programming
 - ECO220: Introduction to Statistics and Econometrics
 - ECO235: Economics of East Asia
