@@ -1,5 +1,5 @@
 ## Hi I'm Michelle👋
-I’m a Computer Science and Quantitative Economics student at Smith College interested in how technology and business intersect to create real-world impact. My academic work and extracurricular experiences have built a foundation in analytical thinking, programming, and problem-solving. Through research using Python and R and leadership roles in student initiatives, I’ve developed an interest in product management, business strategy, and software engineering, where I can apply both technical and organizational skills to meaningful challenges.
+I’m a Computer Science and Quantitative Economics student at Smith College interested in how technology and business intersect to create impact. 
 
 <br>👯 Some past projects:
 - [Shopping Mall Simulator](https://github.com/michellejiang2017/CSC120-FinalProject): a game where you are in a shopping mall and you need to cross items off your shopping list.  
