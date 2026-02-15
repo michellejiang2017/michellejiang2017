@@ -19,7 +19,7 @@ I’m a Computer Science and Quantitative Economics student at Smith College int
 - FYS106: Learning and Thriving in a Labyrinth of Technology
 
 <br>📫 Find me on [Linkedin](https://www.linkedin.com/in/michellejiang2017/) or through [email](mailto:mhjiang@smith.edu)
-<br>⚡ Fun fact: I'm a Chinese Traditional dancer!
+<br>⚡ Fun fact: I'm a Chinese Traditional dancer! Watch me [here](https://www.instagram.com/p/DQz76iFDmL0/)
 <!-- 🔭 I’m currently working on a stock portfolio tracker for personal wealth management. Check it out [here](https://github.com/michellejiang2017/personal-stock-tracker)! 
 -->
 <!--
