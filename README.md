@@ -6,7 +6,8 @@ I’m a Computer Science and Quantitative Economics student at Smith College bui
 - [Alien Assassin](https://github.com/michellejiang2017/Alien-Assassin): a game where you play as an assassin in an alien universe created as part of the [global game jam](https://globalgamejam.org/games/2026/alien-assassin-3).
 - [Wheely Mammoths](https://github.com/sobechiigweatu/Hack-the-Herd-F25-Wheely-Mammoth): a rideshare website for college students & [Hack the Herd](https://devpost.com/software/wheely-mammoths) Sustainable Transportation Winner.
 - [Wage Tracker](https://github.com/michellejiang2017/CSE2190-IA): a web app to calculate and display wages of my student-run company.
-- [MSFT Stock Pitch](https://www.canva.com/design/DAHCeKx3onE/zPYz22IGkbzgN70FM-CrkA/edit): 1st Place @ Smith College Stock Pitch 
+- [MSFT Stock Pitch](https://www.canva.com/design/DAHCeKx3onE/zPYz22IGkbzgN70FM-CrkA/edit): 1st Place @ Smith College Stock Pitch
+- [Thomas Jefferson School Dashboard](https://github.com/michellejiang2017/Thomas-Jefferson-Elementary-School-Dashboard): a web app for a school with classes, students, teacher dashboards and grade calculations.
 
 <br>🌱 Some relevant coursework: 
 - CSC210: Data Structures
