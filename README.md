@@ -2,6 +2,7 @@
 I’m a Computer Science and Quantitative Economics student at Smith College building data systems for financial analysis and decision-making.
 
 <br>👯 Some past projects:
+- [Spotify Web Page](https://github.com/mkuch2/launch-project2): a web app to display Spotify stats with multiple users.
 - [Thomas Jefferson School Dashboard](https://github.com/michellejiang2017/Thomas-Jefferson-Elementary-School-Dashboard): a web app for a school with classes, students, teacher dashboards and grade calculations.
 - [MSFT Stock Pitch](https://www.canva.com/design/DAHCeKx3onE/zPYz22IGkbzgN70FM-CrkA/edit): pitched a buy Microsoft investment thesis on March 27, 2026 & 1st Place @ Smith College Stock Pitch.
 - [Alien Assassin](https://github.com/michellejiang2017/Alien-Assassin): a game where you play as an assassin in an alien universe created as part of the [global game jam](https://globalgamejam.org/games/2026/alien-assassin-3).
