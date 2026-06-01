@@ -11,6 +11,13 @@ I’m a Computer Science and Quantitative Economics student at Smith College bui
 - [Wheely Mammoths](https://github.com/sobechiigweatu/Hack-the-Herd-F25-Wheely-Mammoth): a rideshare website for college students & [Hack the Herd](https://devpost.com/software/wheely-mammoths) Sustainable Transportation Winner.
 - [Wage Tracker](https://github.com/michellejiang2017/CSE2190-IA): a web app to calculate and display wages of my student-run company.
 
+Smaller Projects:
+- [AI Chatbot](https://github.com/michellejiang2017/AI-Chatbot)
+- [Message Board](https://github.com/michellejiang2017/Message-Board)
+- [Personal Website](https://github.com/michellejiang2017/Personal-Portfolio)
+- [Weather & News App](https://github.com/michellejiang2017/Post-Countdown-Weather-News-App)
+- [Trivia App](https://github.com/michellejiang2017/Post-Countdown2-Trivia-App)
+
 <br>🌱 Some relevant coursework: 
 - CSC210: Data Structures
 - MTH153: Introduction to Discrete Mathematics 
