@@ -2,7 +2,7 @@
 I’m a Computer Science and Quantitative Economics student at Smith College building data systems for financial analysis and decision-making.
 
 <br>👯 Some past projects:
-- [The Picnic Basket](https://github.com/shrihan-vijay/forge-week3-recipechatbot): a web app for discovering, saving, and sharing recipes, featuring community ratings, comments, and AI-powered cooking assistance.
+- [The Picnic Basket](https://github.com/shrihan-vijay/forge-week3-recipechatbot): a web app for discovering, saving, and sharing recipes featuring AI assistance.
 - [Reverb](https://github.com/mkuch2/launch-project2): a web app that connects Spotify listeners through profiles, forums, discovery, and messaging.
 - [Thomas Jefferson School Dashboard](https://github.com/michellejiang2017/Thomas-Jefferson-Elementary-School-Dashboard): a web app for a school with classes, students, teacher dashboards and grade calculations.
 - [MSFT Stock Pitch](https://www.canva.com/design/DAHCeKx3onE/zPYz22IGkbzgN70FM-CrkA/edit): pitched a buy Microsoft investment thesis on March 27, 2026 & 1st Place @ Smith College Stock Pitch.
