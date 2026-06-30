@@ -1,4 +1,4 @@
-## [Hi I'm Michelle👋](https://michellejiang2017.github.io/)
+## Hi I'm Michelle👋
 I’m a Computer Science and Quantitative Economics student at Smith College building data systems for financial analysis and decision-making.
 
 <br>👯 Some past projects:
