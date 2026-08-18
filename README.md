@@ -3,7 +3,7 @@ I’m a Computer Science and Quantitative Economics student at Smith College bui
 
 <br>👯 Some past projects:
 - [Limit Order Book Prediction](https://github.com/michellejiang2017/Limit-Order-Book-Prediction): Built short-horizon AAPL price-movement models using limit-order-book and order-flow features, improving test macro AUC from 0.58 to 0.64.
-- [Predicting US Corporate Bankruptcy from Financial Early Warning Signs](https://github.com/alexreifel/AI4All-Ignite-Group-23C): Developed machine-learning models to predict corporate bankruptcy from historical financial indicators and address severe class imbalance.
+- [Predicting US Corporate Bankruptcy from Financial Early Warning Signs](https://alexreifel.github.io/ai4all-official.github.io/): Developed machine-learning models to predict corporate bankruptcy from historical financial indicators and address severe class imbalance.
 - [The Picnic Basket](https://github.com/shrihan-vijay/forge-week3-recipechatbot): a web app for discovering, saving, and sharing recipes featuring AI assistance.
 - [Reverb](https://github.com/mkuch2/launch-project2): a web app that connects Spotify listeners through profiles, forums, discovery, and messaging.
 - [Thomas Jefferson School Dashboard](https://github.com/michellejiang2017/Thomas-Jefferson-Elementary-School-Dashboard): a web app for a school with classes, students, teacher dashboards and grade calculations.
